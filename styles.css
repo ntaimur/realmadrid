@@ -11,7 +11,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(192, 192, 192);
   }
   
   li {
@@ -27,12 +27,12 @@ ul {
     font-size: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-shadow: 1px 1px 1px;
-    border: 5px solid #a7a7a7;
+    border: 5px solid #5e5e5e;
   }
   
 
   body {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(192, 192, 192);
   }
 
   li a:hover {
@@ -49,8 +49,18 @@ ul {
     margin-left: auto;
     margin-right: auto;
     width: 90%;
-    border: 5px solid #a7a7a7;
+    border: 5px solid #5e5e5e;
 
   }
+
+  .pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    border: 5px solid #5e5e5e;
+  }
+
+
 
 
