@@ -11,8 +11,8 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background: rgb(195,171,34);
-    background: linear-gradient(0deg, rgba(195,171,34,1) 0%, rgba(255,255,255,1) 100%);
+    background: rgb(101,100,211);
+    background: linear-gradient(0deg, rgba(101,100,211,1) 0%, rgba(255,255,255,1) 100%);
   }
   
   li {
@@ -32,7 +32,7 @@ ul {
   }
   
   body {
-    background-color: rgb(246, 248, 213);
+    background-color: rgb(209, 206, 255);
   }
 
   h2 {
